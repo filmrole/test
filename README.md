@@ -1,6 +1,6 @@
 # Watch how to make Easy chocolate chip cookies
 
-! [Tux, Cookie recipie](/assets/images/tux.png)
+![Tux, Cookie recipie](/assets/images/tux.png)
 
 # Ingredients
 
